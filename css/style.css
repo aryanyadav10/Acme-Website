@@ -12,6 +12,9 @@ body{
     margin: auto;
     overflow: hidden;
 }
+header .container{
+    color: black;
+}
 ul{
     margin: 0;
     padding: 0;
@@ -76,7 +79,7 @@ header a:hover{
     min-height: 400px;
     background:url('/img/showcase.jpg') no-repeat 0 -400px;
     text-align: center;
-    color:#ffffff;
+    color:black;
 }
 
 #showcase h1{
