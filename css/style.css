@@ -12,7 +12,7 @@ body{
     margin: auto;
     overflow: hidden;
 }
-header .container{
+header.container{
     color: black;
 }
 ul{
